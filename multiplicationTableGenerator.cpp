@@ -1,4 +1,4 @@
-//Write a function that takes in a value 'N' from the user and prints the multiplication table of the same till N*10.
+//QWrite a function that takes in a value 'N' from the user and prints the multiplication table of the same till N*10.
 
 #include <iostream>
 using namespace std;
