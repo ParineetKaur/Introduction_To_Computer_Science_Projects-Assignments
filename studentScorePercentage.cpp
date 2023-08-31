@@ -1,4 +1,4 @@
-//Take as input from a user (a score). Print the total points and find the percentage of the student's score.
+// Take as input from a user (a score). Print the total points and find the percentage of the student's score.
 
 #include <iostream>
 using namespace std;
