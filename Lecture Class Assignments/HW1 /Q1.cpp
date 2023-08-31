@@ -1,3 +1,5 @@
+// Question: How much diet soda can a dieter drink without dying, based on the amount of artificial sweetener that is lethal to a mouse, the weight of the mouse, and the weight of the dieter?
+
 #include <iostream>
 using namespace std;
 
