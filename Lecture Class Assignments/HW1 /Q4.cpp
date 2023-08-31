@@ -1,3 +1,6 @@
+//Question: Correct the issues and irregularities in the algorithm. 
+//The corrections (i.e. the answers) have been provided in the comments on each line. 
+
 #include <iostream>
 #include <cmath>
 using namespace std;
