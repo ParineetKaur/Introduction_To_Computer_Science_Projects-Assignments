@@ -1,3 +1,5 @@
+// Question: Write a C++ program that calculates the factorial of a given number using a function and a loop.
+
 #include <iostream>
 using namespace std;
 
