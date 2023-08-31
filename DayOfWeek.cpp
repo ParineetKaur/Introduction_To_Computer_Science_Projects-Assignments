@@ -1,4 +1,4 @@
-//Write a switch/case program in C++ to input week number(1-7) and print day of week name using switch case.
+// Write a switch/case program in C++ to input week number(1-7) and print day of week name using switch case.
 
 int weekNum;
 cout<<"Input week number (1-7): ";
