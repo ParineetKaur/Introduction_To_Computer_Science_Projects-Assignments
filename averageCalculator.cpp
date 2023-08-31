@@ -1,4 +1,4 @@
-//Write a program to take 10 integers from user using loop and print their average value on screen.
+// Write a program to take 10 integers from user using loop and print their average value on screen.
 
 #include <iostream>
 using namespace std;
