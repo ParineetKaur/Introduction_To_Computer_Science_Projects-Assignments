@@ -1,3 +1,5 @@
+//Question: How many calories are burned per minute while running, based on the subject's weight in pounds, the METS (Metabolic Equivalent of Task) value for running, and the number of minutes spent running?
+
 #include <iostream>
 using namespace std;
 
