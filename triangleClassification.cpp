@@ -1,4 +1,4 @@
-//Take as input 3 sides of a triangle and check if it is equilaterial or isosceles
+// Question: Take as input 3 sides of a triangle and check if it is equilaterial or isosceles
 
 #include <iostream>
 using namespace std;
