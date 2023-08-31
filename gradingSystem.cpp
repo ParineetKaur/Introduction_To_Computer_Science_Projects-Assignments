@@ -19,5 +19,3 @@ else if(finalScore>=60){
 else{
   cout<<"You got F!"
 }
-
-//Always read such questions very carefully
