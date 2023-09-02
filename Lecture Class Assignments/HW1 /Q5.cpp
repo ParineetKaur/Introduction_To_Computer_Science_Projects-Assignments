@@ -1,3 +1,5 @@
+//Question: What is the average score of a series of input scores until a negative value (-1) is entered?
+
 #include <iostream>
 using namespace std;
 
