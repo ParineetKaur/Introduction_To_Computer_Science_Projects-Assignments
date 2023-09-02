@@ -1,3 +1,5 @@
+//Question: What are the class schedules for different days of the week based on user input for the day (M, T, W, H, F)?
+
 #include <iostream>
 using namespace std;
 
