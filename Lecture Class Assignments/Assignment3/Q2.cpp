@@ -1,4 +1,4 @@
-//Question 2 from HW03
+// Question: Create an algorithm to remove duplicate letters from a sentence and display the modified sentence. 
 
 #include <iostream>
 using namespace std;
