@@ -1,4 +1,4 @@
-//Question 3 of Homework02
+// Question: Create a simple dice game in C++ where a human player and a computer player take turns rolling a die and accumulating scores, with the first player to reach a certain score winning the game.
 
 #include <iostream>
 using namespace std;
