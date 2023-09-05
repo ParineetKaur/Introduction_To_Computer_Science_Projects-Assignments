@@ -1,4 +1,4 @@
-//Question 5 of Homework02
+// Question: 
 
 #include <iostream>
 using namespace std;
