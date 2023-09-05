@@ -1,4 +1,4 @@
-//Question 4 of Homework02
+// Question: Create a C++ program to determine the day of the week for a given date using Zeller's Congruence algorithm.
 
 #include <iostream>
 #include <string>
