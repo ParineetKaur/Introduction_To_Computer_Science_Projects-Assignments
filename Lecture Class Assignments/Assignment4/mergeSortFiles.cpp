@@ -1,4 +1,5 @@
-//Question 3 from HW04, Attatched txt files for input: textFile1.txt and textFile3.txt, Attatched ouput File: textFile3.txt
+//Attatched txt files for input: textFile1.txt and textFile3.txt, Attatched ouput File: textFile3.txt
+//Question: Write a program to merge and sort two input text files, textFile1.txt and textFile2.txt, and save the sorted result in textFile3.txt.
 
 #include <iostream>
 #include <fstream>
