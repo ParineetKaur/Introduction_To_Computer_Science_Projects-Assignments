@@ -1,4 +1,5 @@
-//Question 4 from HW04, Attatched txt files for input: GradeFile.txt, Attatched ouput File: GradeAverageFile.txt
+// Attatched txt files for input: GradeFile.txt, Attatched ouput File: GradeAverageFile.txt
+// Question: Write a program to read a file ('GradeFile.txt') containing student names and their grades, calculate the average grade for each student, and then save the student names, grades, and averages in another file ('GradeAverageFile.txt').
 
 #include <iostream>
 #include <fstream>
