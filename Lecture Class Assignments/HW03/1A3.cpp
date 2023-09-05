@@ -1,4 +1,4 @@
-//Part A of Question 6C from HW01
+// Question: Continued from 1A1.cpp and 1A2.cpp. Change the algorithm to find the highest score among the entered quiz scores and  lowest score among the entered quiz scores.
 
 #include <iostream>
 using namespace std;
