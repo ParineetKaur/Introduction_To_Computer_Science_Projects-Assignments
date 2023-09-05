@@ -1,4 +1,4 @@
-//Question 4 of HW03
+// Question: Create a program to calculate how many times each unique integer appears in a list of integers and the count for each unique integer.
 
 #include <iostream>
 using namespace std;
