@@ -1,4 +1,7 @@
-//Question 2 of HW04. File Attatched: numbers.txt, which includes numbers that are being checked in this code
+// File Attatched: numbers.txt, which includes numbers that are being checked in this code.
+// Question: Write a program to find the largest and smallest numbers from a file named 'numbers.txt' and display the results.
+// The program uses a text file named "numbers.txt" as a source of input data.
+
 #include <iostream>
 #include <string>
 #include <fstream>
