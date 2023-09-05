@@ -1,4 +1,5 @@
-//Part A of Question 6A from HW01
+// Question: Create an algorithm to find the average score of a set of quiz scores entered by the user. If user enters -1 as a score, it calculates and displays the average score of all the scores entered.
+// This question is continued in the file 1A2.cpp and 1A3.cpp
 
 #include <iostream>
 using namespace std;
