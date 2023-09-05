@@ -1,4 +1,4 @@
-//Part A of Question 6B from HW01
+// Question: Continued from file 1A1.cpp. There are new features to this algorithm: 1) User has to specify the number of scores they will be entering and 2) Checks for valid scores by ensuring they are within the range [0, 30] and not equal to -1.
 
 #include <iostream>
 using namespace std;
