@@ -1,4 +1,4 @@
-//Question 4 of HW03
+// Question: Write a program that takes an input sentence, removes multiple consecutive spaces, converts the first letter of each word to uppercase, and converts all other letters to lowercase.
 
 #include <iostream>
 #include<cstring>
