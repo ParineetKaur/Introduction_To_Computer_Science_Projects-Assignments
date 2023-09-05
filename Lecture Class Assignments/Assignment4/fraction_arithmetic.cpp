@@ -1,4 +1,4 @@
-//Question 1 (A, B, and C) from HW04
+// Question: Write a program to perform addition and multiplication operations on two fractions, where each fraction has a numerator and a denominator, and then print the results.
 
 #include <cstdlib>
 #include <iostream>
