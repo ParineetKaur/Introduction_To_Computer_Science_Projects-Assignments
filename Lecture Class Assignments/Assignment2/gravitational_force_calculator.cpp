@@ -1,4 +1,4 @@
-//Question 1 of Homework02
+//
 
 #include <iostream>
 #include <cmath>
