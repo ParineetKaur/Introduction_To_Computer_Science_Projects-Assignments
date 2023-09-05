@@ -1,4 +1,4 @@
-//Question 5 of HW03
+// Question: Write a program to determine the number of words in a given string and calculate the frequency of each lowercase letter in the string.
 
 #include <iostream>
 #include <string>
