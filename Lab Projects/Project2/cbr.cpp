@@ -1,5 +1,6 @@
-#include<iostream>
+//Question: What is the maximum value entered by the user, and what is the average of the values entered?
 
+#include<iostream>
 using namespace std;
 
 double maxAverage(double& max, double& average);
