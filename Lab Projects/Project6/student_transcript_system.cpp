@@ -1,4 +1,4 @@
-//
+// Question: Create a program to store and print a student's information, including their name, ID number, year, and transcript of courses and grades
 
 #include <iostream>
 #include <string>
