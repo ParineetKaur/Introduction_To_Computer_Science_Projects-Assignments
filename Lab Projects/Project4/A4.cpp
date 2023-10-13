@@ -1,3 +1,5 @@
+// Question: What is the start index of a protein sequence within a given DNA sequence?
+
 #include <iostream>
 using namespace std;
 
