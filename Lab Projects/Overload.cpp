@@ -1,4 +1,4 @@
-//Question 2
+// Question: Create and initialize a student structure with various overloaded initialization functions?
 
 #include <iostream>
 #include <string>
@@ -94,7 +94,7 @@ Student initializeStudent(std::string n)
    return new_student;
 }
 
-// Question 2: Third overloaded function definition
+// Third overloaded function definition
 Student initializeStudent(int i)
 {
    Student new_student;
