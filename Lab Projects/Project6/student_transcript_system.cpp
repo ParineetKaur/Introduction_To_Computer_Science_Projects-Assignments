@@ -1,4 +1,4 @@
-//Question 1 of Lab10
+//
 
 #include <iostream>
 #include <string>
