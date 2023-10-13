@@ -1,3 +1,5 @@
+//What are the values of variables a, b, and c at different points in the program execution, and how do these values change as the program runs?
+
 #include <iostream>
 using namespace std;
 int fun(int c, int b);
