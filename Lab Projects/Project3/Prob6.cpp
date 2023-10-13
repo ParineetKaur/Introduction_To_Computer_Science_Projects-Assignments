@@ -1,3 +1,5 @@
+// Question: What are the factors of a positive number, and whether each number up to the given positive number is a factor or not?
+
 #include <iostream>
 using namespace std;
 void factors(int n, int facts[]);
