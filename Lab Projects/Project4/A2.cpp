@@ -1,3 +1,5 @@
+//Question: Given a string of characters, what is the substring that starts at a specified initial position (position1) and ends at a specified final position (position2) within the string?
+
 #include <iostream>
 #include <string>
 using namespace std;
