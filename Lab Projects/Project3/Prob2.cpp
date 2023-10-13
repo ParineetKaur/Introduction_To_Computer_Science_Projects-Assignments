@@ -1,3 +1,5 @@
+//Question: What is the minimum element in an array of numbers entered by the user?
+
 #include <iostream>
 using namespace std;
 void findMin(int a[], int min, int size);
