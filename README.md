@@ -1,4 +1,4 @@
-# Introduction_To_Computer_Science_Projects-Assignments
+# Introduction_To_Computer_Science_Projects
 
 ## About This Repository 
 The repository compiles projects and assignments from this Introduction to Computer Science course, highlighting the application of fundamental C++ concepts such as variables, loops, functions, and some object-oriented programming principles. Basic programming structures, conditionals, loops, functions, arrays. Topics relating to the applications of and social impact of computing, including privacy, artificial intelligence, computation in physics, psychology, and biology. 
